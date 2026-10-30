@@ -2,7 +2,14 @@
 
 A DIY, fail-safe smart thermostat for boilers that use a simple on/off room thermostat input (built around a **Vaillant VRT 240 Colormatic / VRT 230**). Two ESP32 boards talk over ESP-NOW. You control everything from Telegram, with no Home Assistant, cloud account or hub.
 
-> **Status:** work in progress. The firmware has not been field-tested on a live boiler yet. Read the [Safety](#safety) section and verify every pin number against your own wiring before flashing.
+> **Status:** work in progress. The firmware has been field-tested on a live boiler, and have gotten great results. Read the [Safety](#safety) section and verify every pin number against your own wiring before flashing.
+
+<img width="4284" height="5712" alt="boiler_controller" src="https://github.com/user-attachments/assets/77ed6eab-07a7-434c-a8d8-f911b04ddb40" />
+<img width="4284" height="5712" alt="Thermostat" src="https://github.com/user-attachments/assets/36689bd6-e873-49e0-b68d-86ac922a54c5" />
+<img width="571" height="586" alt="Screenshot 2026-10-30 at 16 42 11" src="https://github.com/user-attachments/assets/d04e62c9-7519-4265-8413-d17b7a32f04b" />
+
+
+
 
 ## How it works
 
